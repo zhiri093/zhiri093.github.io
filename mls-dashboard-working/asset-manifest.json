@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/static/js/main.a09b1b7f.js",
-    "index.html": "/index.html",
-    "main.a09b1b7f.js.map": "/static/js/main.a09b1b7f.js.map"
+    "main.js": "/mls-dashboard-working/static/js/main.a09b1b7f.js",
+    "index.html": "/mls-dashboard-working/index.html",
+    "main.a09b1b7f.js.map": "/mls-dashboard-working/static/js/main.a09b1b7f.js.map"
   },
   "entrypoints": [
     "static/js/main.a09b1b7f.js"
